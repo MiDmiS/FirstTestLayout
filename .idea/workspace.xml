@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8aec2a6f-e79a-4152-8b7a-a9701c8d8747" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kdbUHTBJ5aB1ZWw6Y6EPMM144q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael\Desktop\CODING\MYPROGS\FirstTestLayout\assets\icons" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Michael\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aec2a6f-e79a-4152-8b7a-a9701c8d8747" name="Default Changelist" comment="" />
+      <created>1606033429949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606033429949</updated>
+      <workItem from="1606033431069" duration="8721000" />
+      <workItem from="1606046916179" duration="1807000" />
+      <workItem from="1606143818900" duration="10389000" />
+      <workItem from="1606163923473" duration="6384000" />
+      <workItem from="1606235833301" duration="1720000" />
+      <workItem from="1606293188607" duration="17801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="214" width="816" height="819" key="#Intentions" timestamp="1606309183337">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="606" y="214" width="816" height="819" key="#Intentions/0.0.1920.1170@0.0.1920.1170" timestamp="1606309183337" />
+    <state x="794" y="311" key="FileChooserDialogImpl" timestamp="1606325372545">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="794" y="311" key="FileChooserDialogImpl/0.0.1920.1170@0.0.1920.1170" timestamp="1606325372545" />
+    <state x="549" y="232" key="SettingsEditor" timestamp="1606325198195">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="549" y="232" key="SettingsEditor/0.0.1920.1170@0.0.1920.1170" timestamp="1606325198195" />
+    <state x="832" y="453" key="svn4idea.export.options" timestamp="1606325373846">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="832" y="453" key="svn4idea.export.options/0.0.1920.1170@0.0.1920.1170" timestamp="1606325373846" />
+  </component>
+</project>
