@@ -10,41 +10,47 @@
 body {
     background-color:  #F4F4F4;
     font-family: "RobotoRegular", sans-serif;
-    padding: 60px 0 0 215px;
 }
 .groupAll {
-    width: 1171px;
+    margin: 60px 0 0 215px;
+    display: flex;
 }
 .advBlock {
+    flex-basis: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-content: space-between;
-    height: 1062px;
-    width: 870px;
+    max-width: 900px;
+    background-color: coral;
 }
 .advBox {
     height: 334px;
     width: 270px;
     background: #FFFFFF url("../assets/images/img.jpg") no-repeat top center;
+    margin: 0 30px 30px 0;
 }
 button.showMoreAd {
+    flex-basis: auto;
     background-color: #E5E5E5;
     align-items: center;
     Border: none;
     height: 80px;
-    width: 870px;
-    margin-top: 19px;
+    margin: -11px 30px 0 0;
     font-size: 18px;
     color: #4290C9;
+    width: 100%;
 }
 button.showMoreAd:hover {
     background-color: #d2d2d2;
 }
 .sidePanel {
-    background-color: coral;
+    background-color: darkred;
     height: 80px;
-    float: right;
     width: 270px;
-    margin-left: 31px;
+    margin-left: fill;
+    order: 1;
+}
+.plusCircleImg {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
 }
