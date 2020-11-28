@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aec2a6f-e79a-4152-8b7a-a9701c8d8747" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/ShowMore.svg" beforeDir="false" />
+    <list default="true" id="8aec2a6f-e79a-4152-8b7a-a9701c8d8747" name="Default Changelist" comment="Modified">
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +77,35 @@
       <workItem from="1606293188607" duration="18203000" />
       <workItem from="1606332819163" duration="468000" />
       <workItem from="1606488180116" duration="17014000" />
-      <workItem from="1606552478534" duration="3091000" />
+      <workItem from="1606552478534" duration="3370000" />
     </task>
+    <task id="LOCAL-00001" summary="Modified">
+      <created>1606565558913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606565558913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified" />
   </component>
   <component name="WindowStateProjectService">
     <state x="606" y="214" width="816" height="819" key="#Intentions" timestamp="1606309183337">
@@ -94,6 +132,14 @@
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="549" y="232" key="SettingsEditor/0.0.1920.1170@0.0.1920.1170" timestamp="1606492870101" />
+    <state x="679" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606565568624">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="679" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1170@0.0.1920.1170" timestamp="1606565568624" />
+    <state x="904" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606565407186">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="904" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1170@0.0.1920.1170" timestamp="1606565407186" />
     <state x="832" y="453" key="svn4idea.export.options" timestamp="1606325373846">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
