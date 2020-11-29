@@ -1,56 +1,78 @@
+@import url("crossicon.css");
+
 @font-face {
     font-family: "RobotoRegular";
     src: local("Roboto"), url("../assets/fonts/roboto/Roboto-Regular.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
+
 * {
     box-sizing: border-box;
-}
-body {
-    display: flex;
-    background-color:  #F4F4F4;
     font-family: "RobotoRegular", sans-serif;
+}
+
+.wrapper,
+.plainWrap {
+    display: flex;
     justify-content: center;
 }
-.groupAll {
-    display: flex;
+
+.wrapper {
+    background: #F4F4F4;
 }
-.advBlock {
-    flex-basis: auto;
+
+.wrapMainBlock {
+    display: flex;
+    overflow: hidden;
+}
+
+.wrapAdBlock {
     display: flex;
     flex-wrap: wrap;
     max-width: 900px;
-    background-color: coral;
+    background: coral;
+    margin: 0 -15px;
 }
-.advBox {
-    height: 334px;
+
+.wrapAdBox {
+    display: flex;
+    background: #FFFFFF;
+    flex-direction: column;
+    margin: 0 15px 30px 15px;
+}
+
+.adBoxTop {
     width: 270px;
-    background: #FFFFFF url("../assets/images/img.jpg") no-repeat top center;
-    margin: 0 30px 30px 0;
+
 }
-button.showMoreAd {
+
+.adBoxLow {
+    align-self: stretch;
+}
+
+.showMore {
     background-color: #E5E5E5;
     align-items: center;
     Border: none;
     height: 80px;
-    margin: -11px 30px 0 0;
+    margin: -11px 15px 0 15px;
     font-size: 18px;
     color: #4290C9;
     width: 100%;
 }
-button.showMoreAd:hover {
+.showMore:hover {
     background-color: #d2d2d2;
 }
-.sidePanel {
+
+.iconPos {
+    vertical-align: middle;
+}
+
+.wrapSidePanel {
     background-color: darkred;
     height: 80px;
     width: 270px;
-    margin-left: fill;
+    margin-left: 30px;
     order: 1;
-}
-.plusCircleImg {
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
 }
