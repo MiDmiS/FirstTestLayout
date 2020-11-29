@@ -1,0 +1,27 @@
+.circle {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #4290C9;
+    margin-right: 12px;
+}
+.before,
+.after {
+    content: '';
+    position: absolute;
+    background-color: #4290C9;
+    border-radius: 1px;
+}
+.before {
+    width: 10px;
+    height: 2px;
+    top: 7px;
+    left: 3px;
+}
+.after {
+    width: 2px;
+    height: 10px;
+    top: 3px;
+    left: 7px;
+}
