@@ -1,4 +1,14 @@
+/* Общие параметры стиля для кнопок */
+
+button {
+    outline: none;
+}
+button:hover {
+    transition: 600ms;
+}
+
 /* Стиль для кнопки "Показать еще" */
+
 .showMore {
     background-color: #E5E5E5;
     align-items: center;
@@ -11,6 +21,11 @@
 }
 .showMore:hover {
     background-color: #d2d2d2;
+}
+
+.showMore:hover .circle {
+    transform: rotate(360deg);
+    transition: 800ms;
 }
 
 /* Стили для кнопок "Комфорт" и "Рассрочка" */
