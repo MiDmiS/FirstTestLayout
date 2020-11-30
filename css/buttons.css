@@ -1,0 +1,50 @@
+/* Стиль для кнопки "Показать еще" */
+.showMore {
+    background-color: #E5E5E5;
+    align-items: center;
+    Border: none;
+    height: 80px;
+    margin: -11px 15px 0 15px;
+    font-size: 18px;
+    color: #4290C9;
+    width: 100%;
+}
+.showMore:hover {
+    background-color: #d2d2d2;
+}
+
+/* Стили для кнопок "Комфорт" и "Рассрочка" */
+
+.estType, .finCond {
+    position: absolute;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16.41px;
+    border-radius: 4px;
+    border: none;
+    height: 22px;
+}
+
+.estType {
+    width: 80px;
+    background: #FFCF26;
+    left: 5.56%;
+    right: 64.81%;
+    top: 2.99%;
+    bottom: 90.42%;
+}
+
+.finCond {
+    width: 142px;
+    background: #11BE75;
+    left: 38.89%;
+    right: 8.52%;
+    top: 2.99%;
+    bottom: 90.42%;
+    color: #FFFFFF;
+}
+
+.finCond:hover, .estType:hover {
+    background: transparent;
+}
+

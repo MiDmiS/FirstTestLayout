@@ -1,4 +1,5 @@
 @import url("crossicon.css");
+@import url("buttons.css");
 
 @font-face {
     font-family: "RobotoRegular";
@@ -43,27 +44,13 @@
 }
 
 .adBoxTop {
+    position: relative;
     width: 270px;
-
 }
 
 .adBoxLow {
     align-self: stretch;
     background: cornsilk;
-}
-
-.showMore {
-    background-color: #E5E5E5;
-    align-items: center;
-    Border: none;
-    height: 80px;
-    margin: -11px 15px 0 15px;
-    font-size: 18px;
-    color: #4290C9;
-    width: 100%;
-}
-.showMore:hover {
-    background-color: #d2d2d2;
 }
 
 .iconPos {
