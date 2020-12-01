@@ -15,15 +15,13 @@ button:hover {
     Border: none;
     height: 80px;
     margin: -11px 15px 0 15px;
-    font-size: 18px;
-    color: #4290C9;
     width: 100%;
 }
 .showMore:hover {
     background-color: #d2d2d2;
 }
 
-.showMore:hover .circle {
+.showMore:hover .circle {            /* Поворот иконки "крестик" при наведении */
     transform: rotate(360deg);
     transition: 800ms;
 }

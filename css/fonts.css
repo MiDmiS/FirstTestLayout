@@ -1,0 +1,44 @@
+@font-face {                          /* Определение шрифта Roboto */
+    font-family: "RobotoRegular";
+    src: local("Roboto"), url("../assets/fonts/roboto/Roboto-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+* {                           /* Общие "правила" для сайта */
+    font-family: "RobotoRegular", sans-serif;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #3C3C3C;
+
+}
+
+p {
+    font-size: 14px;
+    line-height: 16.41px;
+    color: #000000;
+    margin: 5px;
+}
+
+p.fontGrey {
+    color: #777777;
+}
+
+h3 {
+    font-size: 18px;
+    line-height: 21.09px;
+    font-weight: 700;
+    margin: 5px;
+    color: #000000;
+}
+
+.fontBlue {
+
+}
+
+.plainWrap {
+    font-size: 18px;
+    line-height: 21.09px;
+    color: #4290C9;
+    font-size: 18px;
+}

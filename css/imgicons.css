@@ -27,3 +27,11 @@
     top: 3px;
     left: 7px;
 }
+
+/* Параметры для иконки метро */
+
+.iconMetro {
+    width: 16px;
+    height: 11px;
+    margin-right: 10px;
+}

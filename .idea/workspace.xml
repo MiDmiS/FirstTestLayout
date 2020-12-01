@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aec2a6f-e79a-4152-8b7a-a9701c8d8747" name="Default Changelist" comment="Modified">
+      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/buttons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/crossicon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/crossicon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/crossicon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/imgicons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +84,8 @@
       <workItem from="1606488180116" duration="17014000" />
       <workItem from="1606552478534" duration="20110000" />
       <workItem from="1606634654091" duration="21515000" />
-      <workItem from="1606742340175" duration="9159000" />
+      <workItem from="1606742340175" duration="10330000" />
+      <workItem from="1606805771785" duration="17619000" />
     </task>
     <task id="LOCAL-00001" summary="Modified">
       <created>1606565558913</created>
@@ -140,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606746618296</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Modified">
+      <created>1606761915964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606761915964</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,10 +201,10 @@
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="549" y="232" key="SettingsEditor/0.0.1920.1170@0.0.1920.1170" timestamp="1606759546313" />
-    <state x="679" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606746620603">
+    <state x="679" y="277" key="Vcs.Push.Dialog.v2" timestamp="1606761923459">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="679" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1170@0.0.1920.1170" timestamp="1606746620603" />
+    <state x="679" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1170@0.0.1920.1170" timestamp="1606761923459" />
     <state x="904" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606668855492">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>

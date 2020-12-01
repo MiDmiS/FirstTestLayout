@@ -1,16 +1,9 @@
-@import url("crossicon.css");
+@import url("imgicons.css");
 @import url("buttons.css");
+@import url("fonts.css");
 
-@font-face {
-    font-family: "RobotoRegular";
-    src: local("Roboto"), url("../assets/fonts/roboto/Roboto-Regular.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
-
-* {
+* {                           /* Общие "правила" для сайта */
     box-sizing: border-box;
-    font-family: "RobotoRegular", sans-serif;
 }
 
 .wrapper,
@@ -19,46 +12,47 @@
     justify-content: center;
 }
 
-.wrapper {
+body {
     background: #F4F4F4;
 }
 
-.wrapMainBlock {
+.wrapMainBlock {               /* Общая обертка для блока объявлений и кнопки "показать еще" (1) */
     display: flex;
     overflow: hidden;
 }
 
-.wrapAdBlock {
+.wrapAdBlock {                 /* Общая обертка для блока объявлений и кнопки "показать еще" (2) */
     display: flex;
     flex-wrap: wrap;
     max-width: 900px;
-    background: coral;
     margin: 0 -15px;
 }
 
-.wrapAdBox {
+/* Блок объявлений */
+
+.wrapAdBox {                    /* Общая обертка для блока объявления */
     display: flex;
     background: #FFFFFF;
     flex-direction: column;
     margin: 0 15px 30px 15px;
 }
 
-.adBoxTop {
+.adBoxTop {                     /* Обертка для верхней части объявления */
     position: relative;
     width: 270px;
+    max-height: 200px;
 }
 
-.adBoxLow {
+.adBoxLow {                     /* Обертка для нижней части объявления */
     align-self: stretch;
-    background: cornsilk;
+    flex-wrap: wrap;
+    padding: 10px;
 }
 
-.iconPos {
-    vertical-align: middle;
-}
+/* Блок фильтров и установок справа */
 
-.wrapSidePanel {
-    background-color: darkred;
+.wrapSidePanel {                 /* Обертка для боковой панели */
+    background-color: burlywood;
     height: 80px;
     width: 270px;
     margin-left: 30px;
